@@ -1,0 +1,18 @@
+@media (max-width:320px) {
+    .bg{
+     width:100%;
+    }
+    .header h1{
+        font-size: 35px;
+    }
+    .panel input{
+        width:50%;
+    }
+    .panel button{
+        width: auto;
+        font-size: 15px;
+    }
+    .table{
+        width: auto;
+    }
+ }

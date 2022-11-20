@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+}
+.container-fluid{
+    align-items: center;
+    justify-content: center;
+}
+.header h1{
+    text-align: center;
+    font-size: 80px;
+    color: #F08A5D;
+}
+.bg{
+    width: 75%;
+    background-color: #F08A5D;
+    height: auto;
+    border-radius: 10px;
+    border: 0;
+}
+.panel{
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 15vh;
+}
+.panel input{
+    width: 70%;
+    height: 2rem;
+    border-radius: 5px;
+    border: 0;
+    outline:0;
+}
+.panel button{
+    background-color: #B83B5E;
+    width: 20%;
+    height: 2rem;
+    border-radius: 10px;
+    border: 0;
+    font-size: 20px;
+    color:white;
+}
+.task-list{
+    margin-left: 20px;
+}
+.task-list li {
+    margin: 10px;
+}
+.task-list h2{
+    margin-bottom: 20px;
+}
+#hepsinisil{
+    display: block;
+    border: 0;
+    border-radius: 5px;
+    background-color: #708304;
+    float: right;
+    margin-bottom: 20px;
+}
